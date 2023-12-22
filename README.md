@@ -1,4 +1,4 @@
 # js
 My First git repository
 <br>
-Author-Himanshi Gupta
+Author-Himanshi Gupta (apna college)
